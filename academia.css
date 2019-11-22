@@ -1,7 +1,3 @@
-body{
-background: red !important;
-}
-
 /*-------------------------Página de login*/
 
 div#card-login.card:before{
@@ -330,7 +326,7 @@ width: 100% !important;
 
 /*Celular*/
 
-@media screen and (max-device-width: 485px){
+@media screen and (max-device-width: 480px){
     .video {
         display: inline-block !important;
         float: left !important;
@@ -351,7 +347,7 @@ width: 100% !important;
 }
 
 
-/*Tablet android e ipad*/
+/*Tablet android e ipad
 @media screen and (min-device-width: 768px){
     .video {
         display: inline-block;
