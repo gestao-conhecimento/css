@@ -345,11 +345,15 @@ width: 100% !important;
     }
 	
 #region-main {
-
    padding: 0px !important;
-
 }
 
+.card-body, .userprofile .profile_tree section {
+
+padding: 0px;
+}	
+	
+	
 }
 
 
