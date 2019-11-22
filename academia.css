@@ -1,3 +1,7 @@
+body{
+background-color: red !important;
+}
+
 /*-------------------------Página de login*/
 
 div#card-login.card:before{
