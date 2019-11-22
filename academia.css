@@ -350,7 +350,7 @@ width: 100% !important;
 
 .card-body, .userprofile .profile_tree section {
 
-padding: 0px;
+padding: 0px !imoportant;
 }	
 	
 	
