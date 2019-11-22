@@ -343,6 +343,12 @@ width: 100% !important;
         display: inline-block !important;
 
     }
+	
+#region-main {
+
+   padding: 0px !important;
+
+}
 
 }
 
