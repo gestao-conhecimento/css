@@ -330,16 +330,16 @@ width: 100% !important;
     .video {
         display: inline-block !important;
         float: left !important;
-       width: 261px !important;
-       height: 149px !important;
+       width: 349px !important;
+       height: 199px !important;
     }
 }
 
 
 @media screen and (max-device-width: 485px){
     .video iframe {
-    width: 261px !important;
-    height: 149px !important;
+    width: 349px !important;
+    height: 199px !important;
         display: inline-block !important;
 
     }
