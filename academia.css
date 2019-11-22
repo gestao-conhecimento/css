@@ -332,6 +332,7 @@ width: 100% !important;
         float: left !important;
        width: 349px !important;
        height: 199px !important;
+	margin-right: -10px !important;
     }
 
 .video iframe {
@@ -344,10 +345,12 @@ width: 100% !important;
 }
 
 .card-body, .userprofile .profile_tree section {
-
 padding: 0px !imoportant;
 }	
-	
+
+	.no-overflow{
+		overflow: show !important;
+	}
 	
 }
 
