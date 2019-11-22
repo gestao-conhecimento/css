@@ -6,11 +6,11 @@
 /*--------linha vermelha---*/
 
 .linhafina{
-border: 0.5px solid orangered;
+border: 0.5px solid orangered !important;
 }
 
 linhamedia{
-	border: 1px solid orangered;
+	border: 1px solid orangered !important;
 	
 }
 /*-----------------------------------------------------------------------------------------------------------------------*/
